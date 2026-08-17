@@ -4,7 +4,7 @@ import "./App.css";
 
 import ChatPage from "./pages/ChatPage";
 
-const API_URL = "https://mindease-ai-backend-hiwg.onrender.com";
+const API_URL = "https://mindease-ai-backend-x9fc.onrender.com";
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] =

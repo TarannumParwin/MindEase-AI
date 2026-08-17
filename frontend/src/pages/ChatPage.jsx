@@ -7,7 +7,7 @@ import ChatMessage from "../components/ChatMessage";
 import ChatInput from "../components/ChatInput";
 import WelcomeScreen from "../components/WelcomeScreen";
 
-const API_URL = "https://mindease-ai-backend-hiwg.onrender.com";
+const API_URL = "https://mindease-ai-backend-x9fc.onrender.com";
 
 function ChatPage({ onLogout }) {
   const [chats, setChats] = useState([]);
